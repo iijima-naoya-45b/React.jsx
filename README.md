@@ -1,5 +1,5 @@
-# React-simple
-React.jsのみの環境。
+# React.jsx
+標記の複製元
 
 ### node_modulesのインストール
 `cd reactapp`
